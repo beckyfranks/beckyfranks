@@ -6,7 +6,8 @@ I am a learner experience designer specialising in Computing 💾. I have a real
 + 👩‍💻 I am currently working for the [Raspberry Pi Foundation](https://www.raspberrypi.org/) creating computing learning experiences for young people
 
 #### Recent projects
-+ 
++ [Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro)
++ [Introduction to Web Development](https://projects.raspberrypi.org/en/pathways/web-intro)
 
 #### Contact
 + 📞 Reach me through [LinkedIn](https://www.linkedin.com/in/rebecca-franks-27a08161/) or [Twitter](https://twitter.com/FranksberryPi).
