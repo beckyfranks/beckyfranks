@@ -1,1 +1,2 @@
-### Hi, I'm Rebecca 👋
+### Hi, I'm Rebecca Franks (Becky for short) 👋
+
