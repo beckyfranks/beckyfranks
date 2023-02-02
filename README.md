@@ -17,7 +17,7 @@ I am a learner experience designer specialising in Computing 💾. I have a real
 #### Seminars, webinars and talks
 + 📺 [Computing education in non-formal settings – T. Gardner & R. Franks](https://www.youtube.com/watch?v=r10AjfweFng) also see the [blog post](https://www.raspberrypi.org/blog/research-practice-evaluate-improve-computing-education-non-formal-settings-seminar/).
 + 📺 [Learn to create in 3D with Unity](https://www.youtube.com/watch?v=0pUyhlc4W2I)
-+ 📺 [Digital Make at Home](https://www.youtube.com/watch?v=nR0-b519jN4&list=PLxyaWvsfmq491u4XhJtFAnZF0pOyexAkN&index=29&t=23s)
++ 📺 [Digital Making at Home](https://www.youtube.com/watch?v=nR0-b519jN4&list=PLxyaWvsfmq491u4XhJtFAnZF0pOyexAkN&index=29&t=23s)
 
 #### Formal curriculum teaching resources
 + 👩‍🏫 [Teach Computing Curriculum](https://teachcomputing.org/curriculum/key-stage-4/programming-part-1-sequence)
