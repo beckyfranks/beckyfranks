@@ -23,8 +23,8 @@ I am a learner experience designer specialising in Computing 💾. I have a real
 
 #### Magazine / blog posts
 + 📚 [Get kids coding and learning electronics with Raspberry Pi Pico](https://www.raspberrypi.org/blog/kids-coding-electronics-raspberry-pi-pico-free-learning-resource/)
-+ + 📚 [Python coding for kids: Moving beyond the basics](https://www.raspberrypi.org/blog/python-coding-for-kids-beyond-the-basics/)
-+ + 📚 [Coding for kids: Art, games, and animations with our new beginners’ Python path](https://www.raspberrypi.org/blog/coding-for-kids-art-games-animations-beginners-python-programming/)
++ 📚 [Python coding for kids: Moving beyond the basics](https://www.raspberrypi.org/blog/python-coding-for-kids-beyond-the-basics/)
++ 📚 [Coding for kids: Art, games, and animations with our new beginners’ Python path](https://www.raspberrypi.org/blog/coding-for-kids-art-games-animations-beginners-python-programming/)
 + 📚 [A journey into physical computing](https://helloworld.raspberrypi.org/articles/hw15-a-journey-into-physical-computing)
 + 📚 [Going back to basics](https://helloworld.raspberrypi.org/articles/hw16-going-back-to-basics)
 + 📚 [Going back to basics - part 2](https://helloworld.raspberrypi.org/articles/hw17-going-back-to-basics-part-2)
