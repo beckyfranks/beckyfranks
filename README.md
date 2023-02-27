@@ -43,4 +43,4 @@ I am a learner experience designer specialising in Computing 💾. I have a real
 + 📙 [ComputingTextbook.co.uk](https://sites.google.com/view/computingtextbook/home)
 
 #### Contact
-+ 📞 Reach me through [LinkedIn](https://www.linkedin.com/in/rebecca-franks-27a08161/) or [Twitter](https://twitter.com/FranksberryPi).
++ 📞 Reach me through [LinkedIn](https://www.linkedin.com/in/rebecca-franks-27a08161/) or [Twitter](https://twitter.com/FranksbeckyHi).
