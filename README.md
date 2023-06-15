@@ -3,7 +3,7 @@
 I am a learner experience designer specialising in Computing 💾. I have a real passion for inclusion and want to make Computing accessible to all! I enjoy creating with technology 🎨 and I like to do a bit of gaming 🎮 in my own time. I am a big Mario fan but have just started dabbling with Zelda, Breath of the Wild. 
 
 #### Current role
-+ 👩‍💻 I am currently working for the [Raspberry Pi Foundation](https://www.raspberrypi.org/) creating computing learning experiences for young people
++ 👩‍💻 I am Co-Founder of [Flip Computing](https://www.flipcomputing.com/)
 
 #### Recent projects in non-formal computing
 + 💡 [Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro)
