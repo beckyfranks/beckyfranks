@@ -1,6 +1,6 @@
 ### Hi, I'm Rebecca (Becky for short) 👋
 
-I am a learner experience designer specialising in Computing 💾. I have a real passion for inclusion and want to make Computing accessible to all! I enjoy creating with technology 🎨 and I like to do a bit of gaming 🎮 in my own time. I am a big Mario fan but have just started dabbling with Zelda, Breath of the Wild. 
+I am a the director and co-founder of Flip Computing 💾. I have a real passion for inclusion and want to make Computing accessible to all! I enjoy creating with technology 🎨 and I like to do a bit of gaming 🎮 in my own time. I am a big Mario fan but also enjoy open world games like Zelda and Witcher. 
 
 #### Current role
 + 👩‍💻 I am Director & Co-Founder of [Flip Computing](https://www.flipcomputing.com/)
