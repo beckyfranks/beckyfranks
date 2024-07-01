@@ -3,9 +3,17 @@
 I am a learner experience designer specialising in Computing 💾. I have a real passion for inclusion and want to make Computing accessible to all! I enjoy creating with technology 🎨 and I like to do a bit of gaming 🎮 in my own time. I am a big Mario fan but have just started dabbling with Zelda, Breath of the Wild. 
 
 #### Current role
-+ 👩‍💻 I am Co-Founder of [Flip Computing](https://www.flipcomputing.com/)
++ 👩‍💻 I am Director & Co-Founder of [Flip Computing](https://www.flipcomputing.com/)
 
-#### Recent projects in non-formal computing
+### Recent Computing Education Projects
++ 👩‍🏫 [CAS UEFN resources](https://www.computingatschool.org.uk/resources/2024/april/getting-started-in-unreal-editor-for-fortnite)
++ 📙 [24 Days of Scratch](https://flipcomputing.com/books/)
++ 📙 [101 Unplugged Activities for your Coding or STEM Club](https://flipcomputing.com/books/)
++ 📙 [I am a Digital Artist - Underwater](https://flipcomputing.com/books/)
++ 📙 [I am a Digital Artist - Space](https://flipcomputing.com/books/)
++ 📙 [OctoStudio Mini Makes](https://flipcomputing.com/octostudio-dip-in/)
+
+#### Published projects in non-formal computing
 + 💡 [Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro)
 + 🌐 [Introduction to Web Development](https://projects.raspberrypi.org/en/pathways/web-intro)
 + 🐍 [More Python](https://projects.raspberrypi.org/en/pathways/more-python)
@@ -36,6 +44,7 @@ I am a learner experience designer specialising in Computing 💾. I have a real
 + 🌳 [Oak National Academy Online Lessons](https://classroom.thenational.academy/units/data-representation-618b)
 
 #### Volunteer work
++ 👀 I am Chair of the Board of Trustees for [Technology Books for Children](https://www.technologybooksforchildren.org/)
 + 👀 I have volunteered since 2012 with [CAS Include](https://www.casinclude.org/). A [CAS](https://www.computingatschool.org.uk/) steering group focusing on increasing diversity in Computing. 
 
 #### Personal projects
